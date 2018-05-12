@@ -1,0 +1,28 @@
+_repo: Union-And-Communionor-Thoughts-on-the-Song-of-Solomon_26172
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Taylor, James Hudson
+    alias: Taylor, J. Hudson (James Hudson)
+    birthdate: 1832
+    deathdate: 1905
+    gutenberg_agent_id: '25841'
+    url: http://www.gutenberg.org/2009/agents/25841
+    wikipedia: http://en.wikipedia.org/wiki/Hudson_Taylor
+description: ''
+gutenberg_issued: '2008-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26172'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible. Song of Solomon -- Commentaries'
+title: Union and Communion; or, Thoughts on the Song of Solomon
+url: http://www.gutenberg.org/ebooks/26172
